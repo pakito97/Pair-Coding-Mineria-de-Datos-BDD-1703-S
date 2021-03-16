@@ -1,3 +1,5 @@
+#Practice find 20 more functions in R and make an example of it.
+
 #1 Time difference
 
 time_1 <- "2019-08-25 19:09:24"    # First time object
