@@ -72,7 +72,7 @@ eval(expr)                   # Evaluate expression with eval function
 
 e <- c(4, 1, -50, 20, 8)    # Example vector
 max(e)                      # Apply max to vector
-min(e)                      # Apply mic to vector
+min(e)                      # Apply min to vector
 
 #11 Any (condition)
 
