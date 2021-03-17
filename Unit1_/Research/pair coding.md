@@ -1,7 +1,7 @@
 ![Logos (Encabezado)](https://user-images.githubusercontent.com/38358997/111401323-4c5f8480-8686-11eb-8532-0679458bb51a.png)
 
 # Tecnológico Nacional de México
-# INSTITUTO TECNOLÓGICO CAMPUS TIJUANA
+## INSTITUTO TECNOLÓGICO CAMPUS TIJUANA
 # ING. EN SISTEMAS COMPUTACIONALES
 
 * Subdirección Académica 
