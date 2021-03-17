@@ -1,28 +1,29 @@
 ![Logos (Encabezado)](https://user-images.githubusercontent.com/38358997/111401323-4c5f8480-8686-11eb-8532-0679458bb51a.png)
 
-# Tecnológico Nacional de México
+## Tecnológico Nacional de México
 ## INSTITUTO TECNOLÓGICO CAMPUS TIJUANA
-# ING. EN SISTEMAS COMPUTACIONALES
+## ING. EN SISTEMAS COMPUTACIONALES
 
-* Subdirección Académica 
-* Departamento de Sistemas y Computación
-* BDD-1703 S - 5:00pm-6:00pm
+### Subdirección Académica 
+### Departamento de Sistemas y Computación
+### BDD-1703 S - 5:00pm-6:00pm
                                             
-   ASIGNATURA:                                                                     
-Minería de Datos
+  ### ASIGNATURA:                                                                     
+### Minería de Datos
 
-SEMESTRE:
-Febrero-Junio-2021
+### SEMESTRE:
+### Febrero-Junio-2021
 
-Tarea: Pair Coding
+### Tarea: Pair Coding
 
-MAESTRO: 
-JOSE CHRISTIAN ROMERO HERNANDEZ
+### MAESTRO: 
+### JOSE CHRISTIAN ROMERO HERNANDEZ
 
-Rodriguez Medrano Marco Antonio 17210635
-Loaiza Chavez Ramon 17212921
+### Rodriguez Medrano Marco Antonio 17210635
+### Loaiza Chavez Ramon 17212921
 
-16/03/2021
+
+### 16/03/2021
 
 ¿Qué es el pair programming?
 El método conocido como pair programming (en español, programación en pareja) se utiliza principalmente en el desarrollo ágil de software y, más concretamente, en la programación extrema (XP). El pair programming especifica que siempre hay dos personas trabajando al mismo tiempo en el código y que, en la medida de lo posible, se sienten juntas. Una se encarga de escribir el código y la otra de supervisar en tiempo real. Al mismo tiempo, están constantemente intercambiando impresiones: debaten problemas, encuentran soluciones y desarrollan ideas creativas.
