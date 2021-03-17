@@ -1,10 +1,12 @@
-Tecnológico Nacional de México
-INSTITUTO TECNOLÓGICO CAMPUS TIJUANA
-ING. EN SISTEMAS COMPUTACIONALES
+![Logos (Encabezado)](https://user-images.githubusercontent.com/38358997/111401323-4c5f8480-8686-11eb-8532-0679458bb51a.png)
 
-Subdirección Académica 
-Departamento de Sistemas y Computación
-BDD-1703 S - 5:00pm-6:00pm
+# Tecnológico Nacional de México
+# INSTITUTO TECNOLÓGICO CAMPUS TIJUANA
+# ING. EN SISTEMAS COMPUTACIONALES
+
+* Subdirección Académica 
+* Departamento de Sistemas y Computación
+* BDD-1703 S - 5:00pm-6:00pm
                                             
    ASIGNATURA:                                                                     
 Minería de Datos
