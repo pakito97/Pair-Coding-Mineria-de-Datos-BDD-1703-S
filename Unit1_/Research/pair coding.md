@@ -14,6 +14,8 @@
 
 **SERIE:** BDD-1703
 
+**PRACTICE:** PAIR CODING
+
 **TEACHER:** Jose Christian Romero Hernandez
 
 **NAME AND CONTROL NUMBER OF MEMBERS:**
