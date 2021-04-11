@@ -30,3 +30,6 @@ Rodriguez Medrano Marco Antonio 17210635
 >> * 💻 [Practice 3](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Practices/Practice_3.R) Matrix Operations
 >> * 📝 [Task 1](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Tasks/Questionnaire.md) Questionnaire
 >> * 📚 [Research 1](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Researchs/Pair_Coding.md) Pair Coding
+>> * 💻 [Practice 5](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Practices/Practice_5.R) Filters
+>> * 🖊️ [Evaluation 1](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Evaluative_Practice_Unit%231/EvaluationPractice.R) Evaluation Practice 1
+>> * 🖊️ [Evaluation 1 (Results)](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%231/Unit_1/Evaluative_Practice_Unit%231/EvaluationPractice_Results.md) Pair Evaluation Practice 1 (Results)
