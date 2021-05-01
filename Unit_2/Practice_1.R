@@ -1,4 +1,4 @@
-#pen the dataset
+#open the dataset
 coin_bitcoin <- read.csv(file.choose())
 #we see the head of the dataset
 head(coin_bitcoin)
