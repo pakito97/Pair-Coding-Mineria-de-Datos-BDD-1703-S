@@ -23,3 +23,23 @@ ggplot(data=coin_bitcoin, aes(x=Date, y=Open))
 
 ggplot(coin_bitcoin, aes(x=Date, y=Open, color=Name, size=Volume)) + 
   geom_point()
+
+### grafica en facetass
+
+#### Graph with theme and histogram  ###
+
+# preparing the plot
+ggplot(coin_bitcoin, aes(x=Year))
+
+# saving the previous plot in the variable q, then the histogram is added to it and it will be saved in a
+q <- ggplot(coin_bitcoin, aes(x=Year))
+a <- q + geom_histogram(binwidth = 1.5, aes(fill=Name), color="Blue")
+
+# we look at the graph
+a
+
+# the title and theme are added to the graph
+a + ggtitle("Compra de bitcoins") + 
+  theme(legend.title = element_text(size = 14),
+        legend.position = c(1,1),
+        legend.justification = c(1,1),)
