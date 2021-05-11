@@ -10,9 +10,9 @@ library(ggplot2)
 library(extrafont)
 
 # Steps to import Windows fonts
-# font_import ()
+#   font_import ()
 #   Y
-# loadfonts (device = "win")
+#   loadfonts (device = "win")
 
 # We verify that the sources are loaded
 windowsFonts()
@@ -38,3 +38,28 @@ dataFiltered <- data[filterStudio & filterGenre,]
 
 # We verify that the displayed data is as expected
 head(data Filtered)
+
+# Creation of the graph
+
+# Coordinates of the graph
+graph <- ggplot(data = dataFiltered, aes(x = Genre, y = Gross...US))
+# Scatter plot
+graph <- graph + geom_jitter(aes(size = Budget...mill., colour = Studio))
+# Box-and-whisker plot
+graph <- graph + geom_boxplot(alpha = 0.8)
+# Size for points on the scatter plot
+graph <- graph + scale_size_continuous(range = c(2, 4))
+# Changing chart labels
+graph <- graph + ggtitle("Domestic Gross % by Genre") +
+  xlab("Genre")+ ylab("Gross % US") + labs(size = "Budget $M")
+# Style change in chart labels
+graph <- graph + theme(
+    axis.title.x = element_text(colour = "purple", size = 25),
+    axis.title.y = element_text(colour = "purple", size=25),
+    plot.title = element_text(hjust = 0.5, size = 30),
+    title = element_text(face = "bold"),
+    text = element_text(family = "Comic Sans MS", size = 20)
+  )
+
+# Graph display
+graph
