@@ -26,3 +26,5 @@ Rodriguez Medrano Marco Antonio 17210635
 
 >## UNIT 2
 >> * 📚 [Research 1](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%232/Unit_2/Researchs/Graphs.md) Graphs
+>> * 💻 [Practice 1](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%232/Unit_2/Practice_1.R) Creation of 3 types of graphs
+>> * 🖊️ [Evaluation 2](https://github.com/pakito97/Pair-Coding-Mineria-de-Datos-BDD-1703-S/blob/Unit%232/Unit_2/EvaluationPractice/EvaluationPractice.R) evaluative practice
