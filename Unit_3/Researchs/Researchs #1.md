@@ -54,6 +54,12 @@ The following table shows the confusion matrix for a classifier in two classes:
 |///////////////| centered      |    a     |     b    |
 |///////////////| are neat      |    c     |     c    |   
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 In said table:
 -a is the number of correct predictions that a case is negative.
 -b is the number of incorrect predictions that a case is positive, that is, 
