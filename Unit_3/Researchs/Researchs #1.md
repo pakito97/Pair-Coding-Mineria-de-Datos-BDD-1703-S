@@ -28,13 +28,13 @@ Loaiza Chavez Ramon 17212921
 
 Rodriguez Medrano Marco Antonio 17210635
 
-***What is a Confusion Matrix?
+**What is a Confusion Matrix?**
 The confusion matrix is a fundamental tool when evaluating the performance of an algorithm
 classification, as it will give a better idea of how the algorithm is being classified, from
 of a count of the successes and errors of each of the classes in the classification. So you can
 check if the algorithm is misclassifying classes and to what extent.
 
-***Functioning of the matrix and confusion
+**Functioning of the matrix and confusion**
 The confusion matrix is a fundamental tool when evaluating the performance of a classification
 algorithm, since it will give a better idea of how said algorithm is being classified, from a 
 count of the successes and errors of each of the classes in the classification. This way you 
