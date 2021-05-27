@@ -47,3 +47,9 @@ to calculate the square root of the sum of the squares of the coordinates of the
 result obtained will be the distance between the two points.
 
 <img src="https://miro.medium.com/max/724/0*mTKOOEj3EOzkr7aA"/>
+
+here you can see graphically what I mention.
+
+Note: If the Euclidean distance is zero then the points are equal. 
+If the Euclidean distance approaches zero then the points are similar. 
+If the Euclidean distance is considerable and far from zero then the points are different.
