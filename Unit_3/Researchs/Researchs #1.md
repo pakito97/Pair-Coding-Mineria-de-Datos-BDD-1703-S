@@ -42,23 +42,11 @@ can check if the algorithm is misclassifying the classes and to what extent.
 The performance of a system is usually evaluated using the data in such a matrix.
 The following table shows the confusion matrix for a classifier in two classes:
 
-|                           Sorter                        |
-|             |              |            |               |
-|             |              |  negative  |    positive   |
-| real values |    negative  |      a     |        b      |
-|             |    positive  |      c     |        d      |
-
-|////////////////////////Sorter///////////////////////|
-| ------------- |:-------------:| --------:|---------:|
-| real values   |///////////////| negative | positive |
-|///////////////| centered      |    a     |     b    |
-|///////////////| are neat      |    c     |     c    |   
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-|               | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|               |     Sorter    |          |          |
+| ------------- |:-------------:| --------:| --------:|
+| real values   |               | negative | positive |
+|               | negative      |     a    |     b    |
+|               | positive      |     c    |     c    |
 
 In said table:
 -a is the number of correct predictions that a case is negative.
