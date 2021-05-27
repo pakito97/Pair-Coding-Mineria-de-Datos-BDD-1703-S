@@ -16,9 +16,9 @@
 
 **SERIE:** BDD-1703
 
-**research
+**research**
 
-**What is a confusion matrix?
+**What is a confusion matrix?**
 
 **TEACHER:** Jose Christian Romero Hernandez
 
@@ -47,6 +47,12 @@ The following table shows the confusion matrix for a classifier in two classes:
 |             |              |  negative  |    positive   |
 | real values |    negative  |      a     |        b      |
 |             |    positive  |      c     |        d      |
+
+|////////////////////////Sorter///////////////////////|
+| ------------- |:-------------:| --------:|---------:|
+| real values   |///////////////| negative | positive |
+|///////////////| centered      |    a     |     b    |
+|///////////////| are neat      |    c     |     c    |   
 
 In said table:
 -a is the number of correct predictions that a case is negative.
